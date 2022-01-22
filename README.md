@@ -2,7 +2,7 @@ A simple example for interop of Apache Wicket and Tailwind based upon Wicket's o
 
 You'll need to install tailwindcss via npm to get this example running as follows:
 
-**npm install -D tailwindcss**
+**npm install -D tailwindcss**\  
 **npx tailwindcss init**
 
 After successful installation you can start tailwind's JIT engine for this project with the following command:
