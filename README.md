@@ -1,0 +1,1 @@
+A simple example for interop of Apache Wicket and Tailwind based upon Wicket's own quick start project
