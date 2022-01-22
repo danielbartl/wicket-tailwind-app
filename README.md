@@ -12,7 +12,7 @@ After successful installation you can start tailwind's JIT engine for this proje
 
 This will update your CSS file accordingly as soon as you update your HTML templates with tailwind classes.
 
-Then execute the main method of *com.danielbartl.Start* class and open http://localhost:8080/ in your browser.
+Then execute the main method of *com.danielbartl.wtapp.Start* class and open http://localhost:8080/ in your browser.
 
 You can find detailed instructions about how to install Tailwind CLI here:
 https://tailwindcss.com/docs/installation .

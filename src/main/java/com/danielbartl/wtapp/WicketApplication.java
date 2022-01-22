@@ -1,4 +1,4 @@
-package com.danielbartl;
+package com.danielbartl.wtapp;
 
 import org.apache.wicket.csp.CSPDirective;
 import org.apache.wicket.csp.CSPDirectiveSrcValue;
@@ -8,9 +8,8 @@ import org.apache.wicket.util.file.Path;
 
 /**
  * Application object for your web application.
- * If you want to run this application without deploying, run the Start class.
- * 
- * @see com.danielbartl.Start#main(String[])
+ * If you want to run this application without deploying, run the com.danielbartl.wtapp.Start class.
+ *
  */
 public class WicketApplication extends WebApplication
 {

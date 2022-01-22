@@ -1,4 +1,4 @@
-package com.danielbartl;
+package com.danielbartl.wtapp;
 
 import org.apache.wicket.util.tester.WicketTester;
 import org.junit.jupiter.api.BeforeEach;

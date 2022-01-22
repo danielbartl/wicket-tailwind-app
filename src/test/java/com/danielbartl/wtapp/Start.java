@@ -1,4 +1,4 @@
-package com.danielbartl;
+package com.danielbartl.wtapp;
 
 import java.lang.management.ManagementFactory;
 
@@ -24,7 +24,7 @@ public class Start
 	/**
 	 * Main function, starts the jetty server.
 	 *
-	 * @param args
+	 * @param args optional values
 	 */
 	public static void main(String[] args)
 	{

@@ -1,4 +1,4 @@
-package com.danielbartl;
+package com.danielbartl.wtapp;
 
 import org.apache.wicket.request.mapper.parameter.PageParameters;
 import org.apache.wicket.markup.html.basic.Label;
